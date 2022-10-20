@@ -1,0 +1,28 @@
+.random_serial {
+  background-color: #eee;
+  padding: 20px 30px;
+  margin: 30px auto;
+  width: 300px;
+  text-align: center;
+}
+.random_serial .random {
+  background-color: white;
+  padding: 20px;
+  font-size: 22px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  border-radius: 9px;
+}
+.random_serial .generate {
+  background-color: #0519ca;
+  border: 1px solid #0519ca;
+  padding: 5px 30px;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  user-select: none;
+  border-radius: 9px;
+}
+.random_serial .generate:hover {
+  background-color: #293bdd;
+}
